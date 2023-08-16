@@ -40,7 +40,7 @@
       </br>
       </br>
       - Dê um git clone no seu terminal de sua maquina um pasta vazia para instalar o projeto desta maneira:
-        git clone git@github.com:DearJao/campeonato-brasileiro.git
+        git clone git@github.com:DearJao/Queries-for-MSQL.git
         </br>
         </br>
       - Em seguida você precisa entrar na pasta do projeto, através do seu gerenciador de arquivos ou no terminal.
