@@ -3,7 +3,7 @@
 <h2><strong><summary>Sobre o projeto:</strong></summary></h2>
   Projeto criado com intuito de treinar e aperfeiçoar minhas técnicas utilizando o MySQL, atraves da crianção de um banco de dados que simula o que seria o Spotify, assim podendo ter acesso a cantores, álbuns, musicas e informações sobre o usuário. Dentro dos aquivos estão escritas todas as queries escritas a mão, cada vez mais complexas acompanhando o numero do desafio.
 
-<h2><strong><summary>Construção e Features/Tecnologias:</strong></summary></h2
+<h2><strong><summary>Construção e Features/Tecnologias:</summary></strong></h2
       Foi construido em um banco de dados relacional feito com <strong>MySQL</strong>, escrito inteiramente com <strong>JavaScript</strong> todos os arquivos passarm
       por testes de validação passaram por testes utilizando <strong>Jest</strong>.
 
@@ -38,14 +38,16 @@
       </br>
       - Instale as dependências <strong>npm install</strong>
       </br>
-      - Dê um git clone no seu terminal de sua maquina um pasta vazia para instalar o projeto desta maneira:
       </br>
+      - Dê um git clone no seu terminal de sua maquina um pasta vazia para instalar o projeto desta maneira:
         git clone git@github.com:DearJao/campeonato-brasileiro.git
         </br>
         </br>
       - Em seguida você precisa entrar na pasta do projeto, através do seu gerenciador de arquivos ou no terminal.
         </br>
+        </br>
       - Para subir o projeto completo use o comando <strong>docker-compose up -d</strong> ou <strong>docker exec -it one_for_all bash</strong>
+      </br>
       </br>
       - As credencias necessarias para entrar no banco estão dentro do arquivo docker-compose.yml.
       </br>
