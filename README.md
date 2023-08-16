@@ -1,4 +1,4 @@
-<h1><strong>Bem vindo/a ao meu projeto Queries MySQL!!<strong></h1>
+<h1><strong>Bem vindo/a ao meu projeto Queries MySQL!!</strong></h1>
 
 <h2><strong><summary>Sobre o projeto:</strong></summary></h2>
   Projeto criado com intuito de treinar e aperfeiçoar minhas técnicas utilizando o MySQL, atraves da crianção de um banco de dados que simula o que seria o Spotify, assim podendo ter acesso a cantores, álbuns, musicas e informações sobre o usuário. Dentro dos aquivos estão escritas todas as queries escritas a mão, cada vez mais complexas acompanhando o numero do desafio.
